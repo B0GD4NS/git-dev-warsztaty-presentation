@@ -1,6 +1,4 @@
 
-# some dummy text
-
 # List rzeczy do zrobienia przy każdych kolejnych warsztatach
 
 ## Przed warsztatami
